@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bo", "bo.csproj", "{6630641D-2C21-4351-9749-F4B75718EFD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thread", "..\Thread\Thread.csproj", "{BC2B3458-9B2E-429B-84B9-C799470F70B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binarySort", "..\binarySort\binarySort.csproj", "{993D3542-85AA-4ED2-9F26-07120B16AF38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6630641D-2C21-4351-9749-F4B75718EFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6630641D-2C21-4351-9749-F4B75718EFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6630641D-2C21-4351-9749-F4B75718EFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6630641D-2C21-4351-9749-F4B75718EFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2B3458-9B2E-429B-84B9-C799470F70B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2B3458-9B2E-429B-84B9-C799470F70B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2B3458-9B2E-429B-84B9-C799470F70B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2B3458-9B2E-429B-84B9-C799470F70B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993D3542-85AA-4ED2-9F26-07120B16AF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993D3542-85AA-4ED2-9F26-07120B16AF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993D3542-85AA-4ED2-9F26-07120B16AF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993D3542-85AA-4ED2-9F26-07120B16AF38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {175350D2-B4CC-40F4-AE88-3C9E34CA3784}
+	EndGlobalSection
+EndGlobal
